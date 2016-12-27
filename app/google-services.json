@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929557213359",
+    "firebase_url": "https://ashishcloudmessaging.firebaseio.com",
+    "project_id": "ashishcloudmessaging",
+    "storage_bucket": "ashishcloudmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929557213359:android:b0c93dc5debbc5b4",
+        "android_client_info": {
+          "package_name": "com.androidtutorialpoint.ashishnotitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929557213359-r5bghg8jpovt1emmhdsrnmcj3g2gavud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidtutorialpoint.ashishnotitest",
+            "certificate_hash": "EB6D7F215A2398A91E5E86B6B89DB56B44F0D081"
+          }
+        },
+        {
+          "client_id": "929557213359-vga0l4l4lbh9j28skochgfgsiohbr5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1Lm9AylCqwJlYC1n2FFiYMNN_uLk6Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929557213359-vga0l4l4lbh9j28skochgfgsiohbr5td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
